@@ -1,1 +1,7 @@
+CheckBoxList是继承自UiList的一个自定义控件。
+该控件是继承自DuiLib的UIList。
+相同之处就是可以在一个垂直布局里面列出对应的Item。
+不同之处就是在每一条Item的前方都会多出一个UIOption控件，可以通过UIOption的勾选或者取消勾选来选中或者取消选中该Item。
 
+具体操作方法：
+1、
